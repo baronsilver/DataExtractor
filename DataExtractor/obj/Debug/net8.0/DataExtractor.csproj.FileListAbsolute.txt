@@ -1,0 +1,14 @@
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\bin\Debug\net8.0\DataExtractor.exe
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\bin\Debug\net8.0\DataExtractor.deps.json
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\bin\Debug\net8.0\DataExtractor.runtimeconfig.json
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\bin\Debug\net8.0\DataExtractor.dll
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\bin\Debug\net8.0\DataExtractor.pdb
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\DataExtractor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\DataExtractor.AssemblyInfoInputs.cache
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\DataExtractor.AssemblyInfo.cs
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\DataExtractor.csproj.CoreCompileInputs.cache
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\DataExtractor.dll
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\refint\DataExtractor.dll
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\DataExtractor.pdb
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\DataExtractor.genruntimeconfig.cache
+c:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\obj\Debug\net8.0\ref\DataExtractor.dll
