@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataExtractor
-build_property.ProjectDir = C:\Users\HL403\Downloads\Projects\DataExtractor\DataExtractor\
+build_property.ProjectDir = /home/codespace/.vscode-remote/DataExtractor/DataExtractor/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

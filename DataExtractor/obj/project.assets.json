@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HL403\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HL403\\Downloads\\Projects\\DataExtractor\\DataExtractor\\DataExtractor.csproj",
+      "projectUniqueName": "/home/codespace/.vscode-remote/DataExtractor/DataExtractor/DataExtractor.csproj",
       "projectName": "DataExtractor",
-      "projectPath": "C:\\Users\\HL403\\Downloads\\Projects\\DataExtractor\\DataExtractor\\DataExtractor.csproj",
-      "packagesPath": "C:\\Users\\HL403\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HL403\\Downloads\\Projects\\DataExtractor\\DataExtractor\\obj\\",
+      "projectPath": "/home/codespace/.vscode-remote/DataExtractor/DataExtractor/DataExtractor.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/home/codespace/.vscode-remote/DataExtractor/DataExtractor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HL403\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
